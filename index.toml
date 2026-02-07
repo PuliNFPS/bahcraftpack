@@ -1120,6 +1120,11 @@ file = "mods/lucky-block-forge-1.20.1-13.0.jar"
 hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
 
 [[files]]
+file = "mods/luckytnt.pw.toml"
+hash = "1683cf59931738f037ebff1beda6d74cd494a80533b7fbea9bc35dc9256e95f0"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
 metafile = true
