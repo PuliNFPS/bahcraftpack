@@ -1,0 +1,13 @@
+name = "Identity Fix (Morph)"
+filename = "identity-2.9.2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f536628c1fc55b6e01e84116771940496c354bb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7200516
+project-id = 1238155

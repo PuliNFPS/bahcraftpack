@@ -1,0 +1,12 @@
+name = "BAHH MINIGAMES 1.1"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ed96c4f1e2be8859637bdf305bbbcb4d9b4cb64f7402e0760066c081f74b6208"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"
