@@ -1096,6 +1096,11 @@ file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
 hash = "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"
 
 [[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
+metafile = true
+
+[[files]]
 file = "mods/identity-fix-morph.pw.toml"
 hash = "7a3322a0e9c26d088ab58c67df7f028f871e3e1e5d7cfb2cae5b6059d8a10b50"
 metafile = true
