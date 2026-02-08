@@ -1029,6 +1029,10 @@ file = "mods/OAmP-1.20.1-V1.jar"
 hash = "d35b39d7494e6a55a175b3b52dac0012282b5911c839c18c0e207e91ad137d9e"
 
 [[files]]
+file = "mods/WMP-1.16.5test_fixed_fixed.jar"
+hash = "dbf10816e4a4f3b2bd0c001b0f4c5a52075fa9e0a5e4c8f00cf7885e02d78708"
+
+[[files]]
 file = "mods/WorldEditCUI-1.20+01.jar"
 hash = "6e1edd597a62bd70b552925b0d97fcee4527d93300d107554aaf087b98348f09"
 
@@ -1151,11 +1155,6 @@ metafile = true
 [[files]]
 file = "mods/identity-fix-morph.pw.toml"
 hash = "7a3322a0e9c26d088ab58c67df7f028f871e3e1e5d7cfb2cae5b6059d8a10b50"
-metafile = true
-
-[[files]]
-file = "mods/immersive-vehicles-warborn-military-pack.pw.toml"
-hash = "04aae133d7ee7b7304061c946ceab9f5d4243b7507f80a0d521704d2c927ed90"
 metafile = true
 
 [[files]]
