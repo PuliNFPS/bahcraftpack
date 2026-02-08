@@ -1025,6 +1025,10 @@ file = "mods/BrazilThings-2.0.0.jar"
 hash = "09c859b952f3df985b0cb436bd86022a807a26bc52cc12d486357938258e527f"
 
 [[files]]
+file = "mods/OAmP-1.20.1-V1.jar"
+hash = "d35b39d7494e6a55a175b3b52dac0012282b5911c839c18c0e207e91ad137d9e"
+
+[[files]]
 file = "mods/WorldEditCUI-1.20+01.jar"
 hash = "6e1edd597a62bd70b552925b0d97fcee4527d93300d107554aaf087b98348f09"
 
@@ -1165,11 +1169,6 @@ hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
 metafile = true
 
 [[files]]
-file = "mods/kaminari-motor-works.pw.toml"
-hash = "3b95b426736fd5aad6e1e94b9a82cb25c0713168c0b8cf7ef0e77d28e3d31a82"
-metafile = true
-
-[[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
 metafile = true
@@ -1221,11 +1220,6 @@ metafile = true
 [[files]]
 file = "mods/more-swords-35-swords.pw.toml"
 hash = "55ee14462d49bfdef6338c8bbc4e1cf667c287704aef8a43244c1440ea3b4374"
-metafile = true
-
-[[files]]
-file = "mods/mts-iv-official-automobile-pack.pw.toml"
-hash = "ac133f7f88f1c76b02318a19486e9274f4e7a6a725d3e81f19ba1d1adf332252"
 metafile = true
 
 [[files]]
