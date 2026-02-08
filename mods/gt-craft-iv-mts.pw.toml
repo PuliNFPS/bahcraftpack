@@ -1,0 +1,13 @@
+name = "GT CRAFT [IV/MTS]"
+filename = "gtcraft-2.0.1(1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3302f7f27dc17dab9ad6d1632489f641b4d25d3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6926147
+project-id = 952948
