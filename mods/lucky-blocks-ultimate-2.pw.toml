@@ -1,0 +1,13 @@
+name = "Lucky Blocks Ultimate 2"
+filename = "lbu2-1.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6048cbe5270a5dd95f5e9b666a17ca71183ddb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6160824
+project-id = 886328

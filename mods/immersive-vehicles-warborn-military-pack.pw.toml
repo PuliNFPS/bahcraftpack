@@ -1,0 +1,13 @@
+name = "Immersive Vehicles (MTS/IV) - WarBorn Military Pack"
+filename = "WMP-1.16.5test_fixed_fixed.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d5d645aa093462275ff9c93501a4c59bdbfc708"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7006702
+project-id = 1223061

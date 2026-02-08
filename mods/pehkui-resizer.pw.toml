@@ -1,0 +1,13 @@
+name = "Pehkui Resizer"
+filename = "Pehkui_Resizer_V3.5.4___1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ba47d37644274dec7ff11fbdbfacb8175a69811"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5683502
+project-id = 596877

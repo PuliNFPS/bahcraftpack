@@ -1,0 +1,13 @@
+name = "Miku"
+filename = "miku-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec809c8efcd0318294db3e514e53ae0822e30458"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6175058
+project-id = 1196939

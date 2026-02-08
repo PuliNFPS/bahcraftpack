@@ -1,0 +1,13 @@
+name = "Atomic Workshop"
+filename = "atomic_workshop-0.7 Test-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b2d60433eed9c466b9c88a934198b2c8d19aed6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6364024
+project-id = 1093146

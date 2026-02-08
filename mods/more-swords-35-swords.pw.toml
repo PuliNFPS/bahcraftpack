@@ -1,0 +1,13 @@
+name = "More Swords [35+ swords]"
+filename = "moresswords-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "921b2bfbd7cb2af8e45c5520e63a223286854789"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5784312
+project-id = 1039584
