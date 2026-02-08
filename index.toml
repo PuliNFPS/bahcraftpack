@@ -1101,12 +1101,13 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-forge-1.9.5-mc1.20.1.jar"
-hash = "8f80f3953fc988d8c6b4a88035441cad631fea87a413267526b64543890c02b0"
-
-[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "80ea95568836a40a19316f8cbbcca1615d7a1eafb197bfd694537a865fc6e848"
+metafile = true
+
+[[files]]
+file = "mods/extra-armor.pw.toml"
+hash = "6245a25abff080a409ab304bbb40253f9b9eee903eb93ff0cd77b55c6ed33f04"
 metafile = true
 
 [[files]]
@@ -1245,11 +1246,6 @@ metafile = true
 [[files]]
 file = "mods/repo-heads-forge-1.2.1+1.20.1.jar"
 hash = "94ade73c49e0855a989c7dc1a5b93a46b1a9db2454a2de428f7ba79cd616c47e"
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "60fffd9990be454a9dffb87a2804f654e6deb21b2ee63924ef4a84d443612352"
-metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"

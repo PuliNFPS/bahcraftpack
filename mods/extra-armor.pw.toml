@@ -1,0 +1,13 @@
+name = "Extra Armor"
+filename = "ExtraArmor-1.20.1-1.17.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb02e9120566652c9449077e2e2f2f48d9dd9df0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4599520
+project-id = 404496
