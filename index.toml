@@ -1017,6 +1017,14 @@ file = "config/worldeditcui.config.json"
 hash = "862eb44e855b5ff872006933278eaf6c17c04c4cb56c6a90f7e2b1c232a2920b"
 
 [[files]]
+file = "mods/BAA-0.7-forge-1.20.1.jar"
+hash = "e422ec45eb1140c6158a525435fa5b78eae92de479ba71a97915a16b7cedd5f1"
+
+[[files]]
+file = "mods/BrazilThings-2.0.0.jar"
+hash = "09c859b952f3df985b0cb436bd86022a807a26bc52cc12d486357938258e527f"
+
+[[files]]
 file = "mods/WorldEditCUI-1.20+01.jar"
 hash = "6e1edd597a62bd70b552925b0d97fcee4527d93300d107554aaf087b98348f09"
 
@@ -1069,18 +1077,8 @@ hash = "60a9d6252ed7ba6f155517de0093e313677960b8f81c3a6d8fa7ab3d52e7918c"
 metafile = true
 
 [[files]]
-file = "mods/blammeys-armory.pw.toml"
-hash = "a1aad39e022558a2021b708cecc8ca6a0ae99fd3d06b61ef8c2ba9e3b34fd6af"
-metafile = true
-
-[[files]]
 file = "mods/blockomorph-1.20.1-forge-1.0.10.jar"
 hash = "718f6921cdbcd1feeca34a2f52c61132a8121a466fd168ec8f257aaa4b3d8edd"
-
-[[files]]
-file = "mods/brasil-e-coisas.pw.toml"
-hash = "0189d0aabe234ddfc8df9e92b7bcc182c77a8b67210d25e392da9bc256158753"
-metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
