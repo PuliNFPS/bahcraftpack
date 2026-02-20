@@ -1099,6 +1099,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
 file = "mods/crackers-wither-storm-mod.pw.toml"
 hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
 metafile = true
@@ -1259,6 +1264,11 @@ metafile = true
 [[files]]
 file = "mods/repo-heads-forge-1.2.1+1.20.1.jar"
 hash = "94ade73c49e0855a989c7dc1a5b93a46b1a9db2454a2de428f7ba79cd616c47e"
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
