@@ -1077,7 +1077,7 @@ hash = "58d6f61370a325883eb42ff59ea5d0c58125a4620b867356d97195a953da62ab"
 
 [[files]]
 file = "mods/bahletters-0.1.0.jar"
-hash = "685c719d4a22113d66986a6c921cd883aae13ee73ae4b3d18a65ea59307504d0"
+hash = "d54019bdb39c898d1ad19b7cd044151619ca347f8d20cea9cee861775dd63093"
 
 [[files]]
 file = "mods/ballistix.pw.toml"
@@ -1229,6 +1229,11 @@ metafile = true
 [[files]]
 file = "mods/more-swords-35-swords.pw.toml"
 hash = "55ee14462d49bfdef6338c8bbc4e1cf667c287704aef8a43244c1440ea3b4374"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "e855300be1354899595f3e37e3f080647ae0ae0ac84df292441608c3f8327e21"
 metafile = true
 
 [[files]]
