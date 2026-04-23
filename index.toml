@@ -1076,6 +1076,10 @@ file = "mods/bahblocks-1.0.0.jar"
 hash = "58d6f61370a325883eb42ff59ea5d0c58125a4620b867356d97195a953da62ab"
 
 [[files]]
+file = "mods/bahbuildblocks-1.0.0.jar"
+hash = "2c0959169c7265bbc354db4f5018692491bb48752613fe06d96644cd68377504"
+
+[[files]]
 file = "mods/bahletters-0.1.0.jar"
 hash = "d0c4b18bec3bc2b45129e6555ef6d9a4f40d385ac92d60297af916cad328e780"
 
